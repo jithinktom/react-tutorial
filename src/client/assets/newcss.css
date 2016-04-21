@@ -1,0 +1,11 @@
+.completed-todo{
+   text-decoration: line-through;
+   margin-left: 10px;
+}
+.list-group-item{
+    width: 100%;
+    text-align: left;
+}
+.fa-check:before {
+    color: green;
+}
